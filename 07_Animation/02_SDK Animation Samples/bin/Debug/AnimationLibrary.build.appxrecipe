@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASUS-G75VW</Machine>
+    <WindowsUser>Dmitriy</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\disableAnimations.css">
+      <PackagePath>css\disableAnimations.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\customAnimation.css">
+      <PackagePath>css\customAnimation.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\dragAndDrop.css">
+      <PackagePath>css\dragAndDrop.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\dragBetween.css">
+      <PackagePath>css\dragBetween.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\expandAndCollapse.css">
+      <PackagePath>css\expandAndCollapse.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\samplePage.css">
+      <PackagePath>css\samplePage.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\crossfade.css">
+      <PackagePath>css\crossfade.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\fadeInAndOut.css">
+      <PackagePath>css\fadeInAndOut.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\showPopupUI.css">
+      <PackagePath>css\showPopupUI.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\showEdgeUI.css">
+      <PackagePath>css\showEdgeUI.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\showPanel.css">
+      <PackagePath>css\showPanel.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\pointerFeedback.css">
+      <PackagePath>css\pointerFeedback.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\swipeReveal.css">
+      <PackagePath>css\swipeReveal.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\swipeSelection.css">
+      <PackagePath>css\swipeSelection.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\filterSearchList.css">
+      <PackagePath>css\filterSearchList.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\addAndDeleteFromList.css">
+      <PackagePath>css\addAndDeleteFromList.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\reposition.css">
+      <PackagePath>css\reposition.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\updateBadge.css">
+      <PackagePath>css\updateBadge.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\updateTile.css">
+      <PackagePath>css\updateTile.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\sample-utils\sample-utils.css">
+      <PackagePath>sample-utils\sample-utils.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\disableAnimations.html">
+      <PackagePath>html\disableAnimations.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\dragAndDrop.html">
+      <PackagePath>html\dragAndDrop.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\dragBetween.html">
+      <PackagePath>html\dragBetween.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\expandAndCollapse.html">
+      <PackagePath>html\expandAndCollapse.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\customAnimation.html">
+      <PackagePath>html\customAnimation.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\samplePage.html">
+      <PackagePath>html\samplePage.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\enterPage.html">
+      <PackagePath>html\enterPage.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\showPanel.html">
+      <PackagePath>html\showPanel.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\fadeInAndOut.html">
+      <PackagePath>html\fadeInAndOut.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\crossfade.html">
+      <PackagePath>html\crossfade.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\reposition.html">
+      <PackagePath>html\reposition.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\filterSearchList.html">
+      <PackagePath>html\filterSearchList.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\addAndDeleteFromList.html">
+      <PackagePath>html\addAndDeleteFromList.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\pointerFeedback.html">
+      <PackagePath>html\pointerFeedback.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\showEdgeUI.html">
+      <PackagePath>html\showEdgeUI.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\showPopupUI.html">
+      <PackagePath>html\showPopupUI.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\swipeReveal.html">
+      <PackagePath>html\swipeReveal.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\swipeSelection.html">
+      <PackagePath>html\swipeSelection.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\transitionPages.html">
+      <PackagePath>html\transitionPages.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\transitionContents.html">
+      <PackagePath>html\transitionContents.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\enterContent.html">
+      <PackagePath>html\enterContent.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\updateBadge.html">
+      <PackagePath>html\updateBadge.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\html\updateTile.html">
+      <PackagePath>html\updateTile.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\sample-utils\footer.html">
+      <PackagePath>sample-utils\footer.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\sample-utils\header.html">
+      <PackagePath>sample-utils\header.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\sample-utils\scenario-select.html">
+      <PackagePath>sample-utils\scenario-select.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\images\microsoft-sdk.png">
+      <PackagePath>images\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\images\placeholder-sdk.png">
+      <PackagePath>images\placeholder-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\images\smallTile-sdk.png">
+      <PackagePath>images\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\images\splash-sdk.png">
+      <PackagePath>images\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\images\squareTile-sdk.png">
+      <PackagePath>images\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\images\storeLogo-sdk.png">
+      <PackagePath>images\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\images\tile-sdk.png">
+      <PackagePath>images\tile-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\images\windows-sdk.png">
+      <PackagePath>images\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\disableAnimations.js">
+      <PackagePath>js\disableAnimations.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\customAnimation.js">
+      <PackagePath>js\customAnimation.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\dragAndDrop.js">
+      <PackagePath>js\dragAndDrop.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\dragBetween.js">
+      <PackagePath>js\dragBetween.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\expandAndCollapse.js">
+      <PackagePath>js\expandAndCollapse.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\samplePage.js">
+      <PackagePath>js\samplePage.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\enterPage.js">
+      <PackagePath>js\enterPage.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\showPanel.js">
+      <PackagePath>js\showPanel.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\fadeInAndOut.js">
+      <PackagePath>js\fadeInAndOut.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\crossfade.js">
+      <PackagePath>js\crossfade.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\reposition.js">
+      <PackagePath>js\reposition.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\filterSearchList.js">
+      <PackagePath>js\filterSearchList.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\addAndDeleteFromList.js">
+      <PackagePath>js\addAndDeleteFromList.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\pointerFeedback.js">
+      <PackagePath>js\pointerFeedback.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\showEdgeUI.js">
+      <PackagePath>js\showEdgeUI.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\showPopupUI.js">
+      <PackagePath>js\showPopupUI.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\swipeReveal.js">
+      <PackagePath>js\swipeReveal.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\swipeSelection.js">
+      <PackagePath>js\swipeSelection.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\transitionPages.js">
+      <PackagePath>js\transitionPages.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\transitionContents.js">
+      <PackagePath>js\transitionContents.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\enterContent.js">
+      <PackagePath>js\enterContent.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\updateBadge.js">
+      <PackagePath>js\updateBadge.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\js\updateTile.js">
+      <PackagePath>js\updateTile.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\sample-utils\sample-utils.js">
+      <PackagePath>sample-utils\sample-utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_Animation\02_SDK Animation Samples\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

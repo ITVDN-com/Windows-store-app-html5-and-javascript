@@ -1,0 +1,13 @@
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bin\Debug\resources.pri
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bin\Debug\AppxManifest.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bin\Debug\DataBinding.build.appxrecipe
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\priconfig.xml.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\layout.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\resources.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\pri.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\priconfig.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\layout.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\resources.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\pri.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\LanguageQualifiers.txt
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\07_ControlsAndAnimation\DataBinding\DataBinding\bld\Debug\ProjectArchitectures.txt

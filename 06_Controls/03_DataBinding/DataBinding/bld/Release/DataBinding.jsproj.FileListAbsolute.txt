@@ -1,0 +1,13 @@
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bin\Release\resources.pri
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bin\Release\AppxManifest.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bin\Release\DataBinding.build.appxrecipe
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\priconfig.xml.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\layout.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\resources.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\pri.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\priconfig.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\layout.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\resources.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\pri.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\LanguageQualifiers.txt
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\03_DataBinding\DataBinding\bld\Release\ProjectArchitectures.txt

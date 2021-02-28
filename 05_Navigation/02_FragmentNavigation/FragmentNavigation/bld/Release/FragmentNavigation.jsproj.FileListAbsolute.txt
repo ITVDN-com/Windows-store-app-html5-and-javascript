@@ -1,0 +1,13 @@
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bin\Release\resources.pri
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bin\Release\AppxManifest.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bin\Release\FragmentNavigation.build.appxrecipe
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\priconfig.xml.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\layout.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\resources.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\pri.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\priconfig.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\layout.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\resources.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\pri.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\LanguageQualifiers.txt
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\05_Navigation\02_FragmentNavigation\FragmentNavigation\bld\Release\ProjectArchitectures.txt

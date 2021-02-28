@@ -1,0 +1,9 @@
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\01_SimpleControlsSmp\SimpleControlsSmp\bin\Release\resources.pri
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\01_SimpleControlsSmp\SimpleControlsSmp\bin\Release\AppxManifest.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\01_SimpleControlsSmp\SimpleControlsSmp\bin\Release\SimpleControlsSmp.build.appxrecipe
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\01_SimpleControlsSmp\SimpleControlsSmp\bld\Release\priconfig.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\01_SimpleControlsSmp\SimpleControlsSmp\bld\Release\layout.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\01_SimpleControlsSmp\SimpleControlsSmp\bld\Release\resources.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\01_SimpleControlsSmp\SimpleControlsSmp\bld\Release\pri.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\01_SimpleControlsSmp\SimpleControlsSmp\bld\Release\LanguageQualifiers.txt
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\06_Controls\01_SimpleControlsSmp\SimpleControlsSmp\bld\Release\ProjectArchitectures.txt

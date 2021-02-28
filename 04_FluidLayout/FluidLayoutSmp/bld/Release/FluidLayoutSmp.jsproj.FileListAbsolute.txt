@@ -1,0 +1,13 @@
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bin\Release\resources.pri
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bin\Release\AppxManifest.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bin\Release\FluidLayoutSmp.build.appxrecipe
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\priconfig.xml.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\layout.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\resources.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\pri.resfiles.intermediate
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\priconfig.xml
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\layout.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\resources.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\pri.resfiles
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\LanguageQualifiers.txt
+C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bld\Release\ProjectArchitectures.txt

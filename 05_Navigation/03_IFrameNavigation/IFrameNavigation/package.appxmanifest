@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+
+  <Identity
+    Name="ce85a764-a64a-4d41-87ae-e63cc3c9efa2"
+    Version="1.0.0.0"
+    Publisher="CN=Dmitriy" />
+
+  <Properties>
+    <DisplayName>IFrameNavigation</DisplayName>
+    <PublisherDisplayName>Dmitriy</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+
+  <Applications>
+    <Application 
+      Id="App"
+      StartPage="default.html">
+
+      <VisualElements
+        DisplayName="IFrameNavigation"
+        Logo="images\logo.png"
+        SmallLogo="images\smalllogo.png"
+        Description="IFrameNavigation"
+        ForegroundText="light"
+        BackgroundColor="#464646">
+
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="images\splashscreen.png" />
+
+      </VisualElements>
+    </Application>
+  </Applications>
+
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+
+</Package>

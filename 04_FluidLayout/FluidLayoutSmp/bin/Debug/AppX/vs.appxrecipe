@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASUS-G75VW</Machine>
+    <WindowsUser>Dmitriy</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>7ABFF40B75C08AFD22339DCD6428BF6333F8EEB179E5FD1F511E1BABAAF04769</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f68106ba-b696-46fb-afff-242ef17aa587_1.0.0.0_neutral__awzfmjwzyfm34</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f68106ba-b696-46fb-afff-242ef17aa587_awzfmjwzyfm34!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f68106ba-b696-46fb-afff-242ef17aa587</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dmitriy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-24T09:10:56.154</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-04-17T11:50:35.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2013-04-17T11:50:35.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2013-04-17T11:50:35.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2013-04-17T11:50:35.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T22:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-04-17T13:59:35.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-04-20T19:19:17.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-04-17T11:50:35.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2013-04-17T13:59:35.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2013-04-17T13:40:32.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2013-04-17T13:59:35.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2013-04-17T13:59:35.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2013-04-17T13:38:33.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2013-04-24T09:46:38.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-04-24T09:28:43.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\04_FluidLayout\FluidLayoutSmp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-24T09:10:55.958</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

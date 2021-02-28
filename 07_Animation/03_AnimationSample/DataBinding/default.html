@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>HandlingEventsSmp</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- DataBinding references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/data.js"></script>
+</head>
+<body>
+    <div id="root">
+        <div id="ratingOutput" style="float: right; font-size: 30px; margin: 50px;">
+            <span id="RatingSpan"></span>
+            <br />
+            <img id="CourseBoxImage" style="visibility: hidden" />
+        </div>
+
+        <label>Введите имя</label>
+        <input type="text" id="NameTextBox" />
+        <br />
+
+        <label>Выберите курс</label>
+        <!-- Шаблон для отображения отдельного элемента в ListView -->
+        <!-- data-win-bind="целевое свойство: свойство источника" -->
+        <div id="itemTemplate" data-win-control="WinJS.Binding.Template">
+            <div style="margin-left: 10px;">
+                <div data-win-bind="innerText: course" style="text-align: center"></div>
+                <img data-win-bind="src: image" style="width: 125px; height: 124px;" />
+            </div>
+        </div>
+
+        <!-- ListView - контрол отображающий инфомацию в настраиваемом листе или таблице -->
+        <!-- itemDataSource - источник данных -->
+        <!-- itemTemplate - шаблон для отображения одного элемента-->
+        <div id="CoursesListView" data-win-control="WinJS.UI.ListView"
+            data-win-options="{
+            itemDataSource: DataExample.itemList.dataSource, 
+            itemTemplate: select('#itemTemplate')
+        }">
+        </div>
+        <br />
+
+        <label>Оцентие курс</label>
+        <div id="RatingControl" data-win-control="WinJS.UI.Rating"></div>
+        <br />
+
+        <label>Дата прохождения курса</label>
+        <div data-win-control="WinJS.UI.DatePicker"
+            data-win-options="{minYear: 2000, maxYear: 2014}">
+        </div>
+
+        <br />
+        <br />
+
+        <button id="SubmitButton">Submit</button>
+    </div>
+</body>
+</html>

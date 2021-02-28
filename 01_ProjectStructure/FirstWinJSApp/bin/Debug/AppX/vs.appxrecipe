@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASUS-G75VW</Machine>
+    <WindowsUser>Dmitriy</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A29EF120BB9BCFBB0B2F22C1D2DDE5F5C578B3108FD38917B12CEF9C99C7AB8A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d8b8d192-3e46-4475-9894-538659a85de9_1.0.0.0_neutral__awzfmjwzyfm34</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d8b8d192-3e46-4475-9894-538659a85de9_awzfmjwzyfm34!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d8b8d192-3e46-4475-9894-538659a85de9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dmitriy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\01_ProjectStructure\FirstWinJSApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-24T08:27:46.427</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\01_ProjectStructure\FirstWinJSApp\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-04-14T19:14:22.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\01_ProjectStructure\FirstWinJSApp\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\01_ProjectStructure\FirstWinJSApp\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\01_ProjectStructure\FirstWinJSApp\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\01_ProjectStructure\FirstWinJSApp\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\01_ProjectStructure\FirstWinJSApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-04-24T08:26:15.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\01_ProjectStructure\FirstWinJSApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-11-05T16:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dmitriy\Desktop\Windows 8 JavaScript + HTML5\01_ProjectStructure\FirstWinJSApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-14T19:07:45.602</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

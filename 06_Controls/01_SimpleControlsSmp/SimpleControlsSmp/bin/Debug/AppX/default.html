@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SimpleControlsSmp</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- SimpleControlsSmp references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+
+    <label>Введите имя</label>
+    <input type="text" id="NameTextBox" />
+    <br />
+
+    <label>Выберите курс</label>
+    <select id="CourseSelect">
+        <option>C# Essential</option>
+        <option>C# Professional</option>
+        <option>Windows 8 Store App with JS and HTML</option>
+        <option>HTML 5</option>
+        <option>JavaScript Advanced</option>
+    </select>
+    <br />
+
+    <!-- data-win-control - в атрибуте задается имя функции конструктора, которая создает элемент управления -->
+    <!-- data-win-options - атрибут содержит дополнительные параметры для настройки элемента управления -->
+    <label>Вам понравился курс?</label>
+    <div data-win-control="WinJS.UI.ToggleSwitch"
+         data-win-options="{labelOff: 'Нет', labelOn: 'Да'}">
+    </div>
+
+    <label>Дата прохождения курса</label>
+
+    <div data-win-control="WinJS.UI.DatePicker"
+         data-win-options="{minYear: 2000, maxYear: 2014}">
+    </div>
+
+    <br />
+    <br />
+
+    <button id="SubmitButton">Submit</button>
+</body>
+</html>
